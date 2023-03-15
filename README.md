@@ -12,4 +12,5 @@ To run the Files make sure there is a Flow.csv file containing all the observed 
 ## The Following are the Main Contributors for devloping the Codes
 
 - Vibhu Bathja (Main Devloper)
-- Priyadarsini Manikandan 
+- Priyadarsini Manikandan (Tester)
+- Nandhini Suthesh 
